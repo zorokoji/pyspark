@@ -36,3 +36,13 @@ result2 = df.groupBy("DepartmentType").agg(
 )
 
 result2.show()
+
+
+
+-----
+#Tableau
+Gender code vs csv ..gender to color
+Race desc to color and css to size ..then pi chart ..choose entire view
+Title vs csv
+Division to color , csv to size … treemap
+Analysis , calculation , YEAR … DATETIME([Start Time]) vs csv
