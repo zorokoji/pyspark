@@ -27,3 +27,4 @@ result = df3.groupby("Size").agg(avg("Average_salary").alias("Average_salary"))
 result.show()
 
 ----
+result.write.csv("path/to/output_directory", header=True)
