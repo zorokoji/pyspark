@@ -34,3 +34,14 @@ df = df.filter(
 ---
 df_total_sales = df.groupBy("Product").agg( sum("Sales").alias("TotalSales"))
 df_total_sales.show()
+
+
+---
+#Tableau
+Product vs dt
+Order date in Month vs dt
+City vs dt -> in filter add city and top 10 , sales and choose count
+Product vs dt …. City for colour
+Product colour , city to  detail , dt to  size  
+Product to filter , top 5 , sales and sum | order date , mont vs dt | product to color
+
