@@ -28,3 +28,14 @@ result.show()
 
 ----
 result.write.csv("path/to/output_directory", header=True)
+
+---
+#Tableau
+
+Sector vs rating , sector to color
+Job title vs avg salary 
+Sector vs avg salary … select avg
+Size vs avg salary …crying bar
+
+Sector vs newcsv ,,,sector to color or newcsv to color
+
